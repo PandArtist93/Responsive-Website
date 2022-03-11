@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Responsive-Website/static/css/main.a89e4a05.css",
+    "main.js": "/Responsive-Website/static/js/main.49bbeb88.js",
+    "static/media/Header-Illustration.png": "/Responsive-Website/static/media/Header-Illustration.7c9aa4fcc79b29d3389d.png",
+    "static/media/Group-81.png": "/Responsive-Website/static/media/Group-81.bad16829c7341d6783d8.png",
+    "static/media/GPT-3.svg": "/Responsive-Website/static/media/GPT-3.cf6810c94fbac0cc653f939ff5723cf4.svg",
+    "index.html": "/Responsive-Website/index.html",
+    "main.a89e4a05.css.map": "/Responsive-Website/static/css/main.a89e4a05.css.map",
+    "main.49bbeb88.js.map": "/Responsive-Website/static/js/main.49bbeb88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a89e4a05.css",
+    "static/js/main.49bbeb88.js"
+  ]
+}
