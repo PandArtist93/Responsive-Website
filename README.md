@@ -7,5 +7,5 @@ If you want to view the portfolio, you can do it through the following link 🌐
 
 <h3>Preview</h3>
 <div align="center">
-    <img src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/0b240b03-5f02-4e80-8478-be39ac80ee28.gif?ClientID=vimeo-core-prod&Date=1647580410&Signature=2e4cf61ed128adc15e89b751b0cfc4ec031f9976" width="800">
+    <img src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/0b240b03-5f02-4e80-8478-be39ac80ee28.gif?ClientID=vimeo-core-prod&Date=1647580410&Signature=2e4cf61ed128adc15e89b751b0cfc4ec031f9976" width="700">
 </div>
